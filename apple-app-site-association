@@ -10,5 +10,12 @@
                 ]
             }
         ]
-    }
+    },
+    "webcredentials": {
+        "apps": [ "SV7NCRAVNS.com.flowpay.ios.app" ]
+     },
+  
+      "appclips": {
+          "apps": [ "SV7NCRAVNS.com.flowpay.ios.app" ]
+      }
 }
