@@ -3,13 +3,10 @@
         "details": [
             {
                 "appIDs": [
-                    "com.flowpay.ios.app"
+                    "SV7NCRAVNS.com.flowpay.ios.app"
                 ],
-                "components": [
-                    {
-                        "/": "/*",
-                        "comment": "Matches all"
-                    }
+                "paths": [
+                    "*"
                 ]
             }
         ]
