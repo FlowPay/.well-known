@@ -1,0 +1,17 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "com.flowpay.ios.app"
+                ],
+                "components": [
+                    {
+                        "/": "/*",
+                        "comment": "Matches all"
+                    }
+                ]
+            }
+        ]
+    }
+}
