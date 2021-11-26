@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.flowpay.android.app",
+    "sha256_cert_fingerprints": [
+      "92:93:40:67:0B:51:9C:4A:7C:8F:A3:69:D5:1D:1D:38:C8:F2:6F:2C:6F:CA:F5:F0:55:FC:3E:4D:0B:AC:E9:30"
+    ]
+  }
+}]
